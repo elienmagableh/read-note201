@@ -3,7 +3,7 @@
 
 |Class number | URL |
 --------------|-------
-| class 1 |    |
+| class 1 |  https://elienmagableh.github.io/read-note201/class01  |
 | class 2 |   https://elienmagableh.github.io/read-note201/class02 |
 | class 3 |  3  |
 | class 4 |  4  |
