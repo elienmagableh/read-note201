@@ -4,7 +4,7 @@
 * Lists are used to group together related pieces of information so they are clearly associated with each other and easy to read. In modern web development, lists are workhorse elements, frequently used for navigation as well as general content.
 
 Lists are good from a structural point of view as they help create a well-structured, more accessible, easy-to-maintain document. They are also useful because they provide specialized elements to which you can attach CSS styles. Finally, semantically correct lists help visitors read your web site, and they simplify maintenance when your pages need to be updated. *
-![list](https://media.cheggcdn.com/media%2F97a%2F97ac2705-604c-401b-b644-3910a52e7f4f%2FphpF4QzPj.png)
+![list1](https://codebridgeplus.com/wp-content/uploads/unordered-list-after-screenshot.png)
 
 ** There are three list types in HTML: **
 - unordered list — used to group a set of related items in no           particular order
@@ -26,9 +26,9 @@ Unordered (bulleted) lists are used when a set of items can be placed in any ord
 - coffee beans *
 
 
-    ![list](https://i2.wp.com/blog.thejaytray.com/wp-content/uploads/2015/04/005-Music-HTML-List-Code-Ordered-List.png)
+    ![list2](https://i2.wp.com/blog.thejaytray.com/wp-content/uploads/2015/04/005-Music-HTML-List-Code-Ordered-List.png)
 
-    [example on list](https://www.w3schools.com/html/html_lists.asp) 
+    [example on list3](https://www.w3schools.com/html/html_lists.asp) 
 * Ordered (numbered) lists are used to display a list of items that should be in a specific order. An example would be cooking instructions:
 
 * 1. Gather ingredients
