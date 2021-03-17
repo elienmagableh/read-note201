@@ -6,8 +6,8 @@
 | class 1 |  https://elienmagableh.github.io/read-note201/class01  |
 | class 2 |   https://elienmagableh.github.io/read-note201/class02 |
 | class 3 |  https://elienmagableh.github.io/read-note201/class03  |
-| class 4 |  4  |
-| class 5 |  5  |
+| class 4 |  https://elienmagableh.github.io/read-note201/class04 |
+| class 5 |  https://elienmagableh.github.io/read-note201/class05 |
 | class 6 |  6 |
 | class 7 |  7 |
 | class 8 |  8  |
