@@ -106,5 +106,3 @@ public class Puppy {
       // Following statement would create an object myPuppy
       Puppy myPuppy = new Puppy( "tommy" );
    }
-}
-![obj]()
