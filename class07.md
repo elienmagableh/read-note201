@@ -51,10 +51,11 @@ Some browsers automatically draw lines around the table and/or the individual ce
    </body>
 </html>
 
-![table](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSdyDuc_s04HpvreLzXxLESmJFGW7X5C6IHg&usqp=CAU)
+![table1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSdyDuc_s04HpvreLzXxLESmJFGW7X5C6IHg&usqp=CAU)
 
 # chapter 3
 ## Functions, Methods, and Objects
+
 ** WHAT IS AN OBJECT? **
 Objects group together a set of variables and functions to create a model of a something you would recognize from the real world. In an object, variables and functions take on new names. 
 
