@@ -9,7 +9,7 @@
 | class 4 |  https://elienmagableh.github.io/read-note201/class04 |
 | class 5 |  https://elienmagableh.github.io/read-note201/class05 |
 | class 6 |  https://elienmagableh.github.io/read-note201/class06 |
-| class 7 |  7 |
+| class 7 |  https://elienmagableh.github.io/read-note201/class07 |
 | class 8 |  8  |
 | class 9 |  9  |
 | class 10 |  10  |
