@@ -13,8 +13,8 @@
 | class 8 |  https://elienmagableh.github.io/read-note201/class08 |
 | class 9 |  https://elienmagableh.github.io/read-note201/class09  |
 | class 10 |  https://elienmagableh.github.io/read-note201/class10 |
-| class 11 |  11  |
-| class 12 |  12  |
-| class 13 |  13  |
+| class 11 |  https://elienmagableh.github.io/read-note201/class11 |
+| class 12 |  https://elienmagableh.github.io/read-note201/class12 |
+| class 13 |  https://elienmagableh.github.io/read-note201/class13  |
 | class 14 |  14  |
 | class 15 |  15  |
