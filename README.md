@@ -16,5 +16,6 @@
 | class 11 |  https://elienmagableh.github.io/read-note201/class11 |
 | class 12 |  https://elienmagableh.github.io/read-note201/class12 |
 | class 13 |  https://elienmagableh.github.io/read-note201/class13  |
-| class 14 |  14  |
+| class 14 a|https://elienmagableh.github.io/read-note201/class14a   |
+|class 14 b|https://elienmagableh.github.io/read-note201/class14b|
 | class 15 |  15  |
